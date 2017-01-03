@@ -1,0 +1,31 @@
+body				{
+	font-family: Verdana;
+	font-size: 12px;
+	color: Black;
+	background-color: #ffffff
+}
+table        		{
+	font-family: Verdana;
+	font-size: 12px;
+	color: Black;
+}
+a:link       		{
+	color: Blue;
+	text-decoration: underline;
+	font-size: 12px;
+}
+a:active     		{
+	color: Red;
+	text-decoration: underline;
+	font-size: 12px;
+}
+a:visited    		{
+	color: Red;
+	text-decoration: underline;
+	font-size: 12px;
+}
+a:hover      		{
+	color: Red;
+	text-decoration: underline;
+	font-size: 12px;
+}

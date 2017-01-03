@@ -1,0 +1,1405 @@
+.mstheme
+{
+	separator-image: url(romhorsa.gif);
+	list-image-1: url(rombul1a.gif);
+	list-image-2: url(rombul2a.gif);
+	list-image-3: url(rombul3a.gif);
+	nav-banner-image: url(rombanna.gif);
+	navbutton-horiz-normal: url(romhbuda.gif);
+	navbutton-horiz-hovered: url(romhbuha.gif);
+	navbutton-horiz-pushed: url(romhbusa.gif);
+	navbutton-vert-normal: url(romvbuda.gif);
+	navbutton-vert-hovered: url(romvbuha.gif);
+	navbutton-vert-pushed: url(romvbusa.gif);
+	navbutton-home-normal: url(romhomda.gif);
+	navbutton-home-hovered: url(romhomha.gif);
+	navbutton-home-pushed: url(romhomsa.gif);
+	navbutton-next-normal: url(romnexda.gif);
+	navbutton-next-hovered: url(romnexha.gif);
+	navbutton-next-pushed: url(romnexsa.gif);
+	navbutton-prev-normal: url(rompreda.gif);
+	navbutton-prev-hovered: url(rompreha.gif);
+	navbutton-prev-pushed: url(rompresa.gif);
+	navbutton-up-normal: url(romupda.gif);
+	navbutton-up-hovered: url(romupha.gif);
+	navbutton-up-pushed: url(romupsa.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+ul
+{
+	list-style-image: url('rombul1a.gif');
+}
+ul ul
+{
+	list-style-image: url('rombul2a.gif');
+}
+ul ul ul
+{
+	list-style-image: url('rombul3a.gif');
+}
+a:link
+{
+	color: rgb(0, 0, 255);
+}
+a:active
+{
+	color: rgb(0, 0, 255);
+}
+a:visited
+{
+	color: rgb(128, 0, 128);
+}
+body
+{
+	background-color: rgb(204, 204, 153);
+	color: rgb(0, 0, 0);
+}
+table
+{
+	table-border-color-light: rgb(0, 0, 0);
+	table-border-color-dark: rgb(0, 0, 0);
+	border-color: rgb(0, 0, 0);
+}
+th
+{
+	border-color: rgb(0, 0, 0);
+}
+td
+{
+	border-color: rgb(0, 0, 0);
+}
+h1
+{
+	color: rgb(102, 0, 0);
+}
+h2
+{
+	color: rgb(102, 0, 0);
+}
+h3
+{
+	color: rgb(102, 0, 0);
+}
+h4
+{
+	color: rgb(102, 0, 0);
+}
+h5
+{
+	color: rgb(102, 0, 0);
+}
+h6
+{
+	color: rgb(102, 0, 0);
+}
+hr
+{
+}
+button
+{
+	background-color: rgb(102, 0, 0);
+	color: rgb(255, 255, 255);
+}
+label
+{
+	color: rgb(0, 0, 0);
+}
+.mstheme-text
+{
+}
+textarea
+{
+	color: rgb(0, 0, 0);
+}
+fieldset
+{
+	color: rgb(0, 0, 0);
+}
+legend
+{
+	color: rgb(102, 0, 0);
+}
+select
+{
+	color: rgb(0, 0, 0);
+}
+caption
+{
+	color: rgb(102, 0, 0);
+}
+.mstheme-bannertxt a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-bannertxt a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-bannertxt a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-bannertxt-g
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-bannertxt-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-bannertxt-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-bannertxt-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-bannertxt-s
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-bannertxt-s a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-bannertxt-s a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-bannertxt-s a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-horiz-navtxt a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-horiz-navtxt a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-horiz-navtxt a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-horiz-navtxt-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-horiz-navtxt-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-horiz-navtxt-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-horiz-navtxt-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-horiz-navtxt-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-horiz-navtxt-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxthome a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxthome a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxthome a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxthome-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxthome-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxthome-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxthome-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxthome-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxthome-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtnext a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtnext a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtnext a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtnext-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtnext-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtnext-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtnext-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtnext-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtnext-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtprev a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtprev a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtprev a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtprev-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtprev-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtprev-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtprev-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtprev-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtprev-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtup a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtup a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtup a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtup-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtup-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtup-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-navtxtup-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-navtxtup-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-navtxtup-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-topbar-font a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-topbar-font a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-topbar-font a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-topbar-font-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(102,0,0);
+	font-size: 8pt;
+}
+.mstheme-topbar-font-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-topbar-font-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-topbar-font-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-vert-navtxt a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-vert-navtxt a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-vert-navtxt a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-vert-navtxt-g
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt-g a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-vert-navtxt-g a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-vert-navtxt-g a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.mstheme-vert-navtxt-gs
+{
+	font-family: Times New Roman, Times;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt-gs a:link
+{
+	color: rgb(153, 102, 0);
+}
+.mstheme-vert-navtxt-gs a:active
+{
+	color: rgb(0, 0, 255);
+}
+.mstheme-vert-navtxt-gs a:visited
+{
+	color: rgb(128, 128, 128);
+}
+.ms-addnew
+{
+	font-weight: normal;
+	font-size: 9pt;
+	text-decoration: none;
+	font-family: Times New Roman, serif;
+	color: #999999;
+}
+.ms-announcementtitle
+{
+	font-weight: normal;
+}
+.ms-appt
+{
+	height: 18px;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-bottom-color: #666633;
+	background-color: #ffffcc;
+	border-left-color: #666633;
+	border-top-style: solid;
+	overflow: hidden;
+	border-bottom-style: solid;
+	border-right-width: 2px;
+	text-align: center;
+	vertical-align: middle;
+	border-top-width: 2px;
+	border-right-color: #666633;
+	border-top-color: #666633;
+	font-size: 8pt;
+	color: black;
+	border-left-width: 2px;
+	border-right-style: solid;
+}
+.ms-appt a
+{
+	color: #000000;
+}
+.ms-appt a:hover
+{
+	color: red;
+}
+.ms-authoringcontrols
+{
+	font-family: Arial, sans-serif;
+	background-color: #ffffcc;
+	color: #000000;
+	font-size: 9pt;
+}
+.ms-banner
+{
+	font-family: Times New Roman, serif;
+	color: #000000;
+	font-size: 11pt;
+}
+.ms-banner a:link
+{
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+	font-family: Times New Roman, serif;
+	font-size: 11pt;
+}
+.ms-banner a:visited
+{
+	font-size: 11pt;
+	font-family: Times New Roman, serif;
+	text-decoration: none;
+	color: #000000;
+	font-weight: normal;
+}
+.ms-bannerframe
+{
+	border-bottom-style: solid;
+	background-color: #ffffcc;
+	border-bottom-color: #cccc99;
+	border-bottom-width: 4px;
+}
+.ms-cal
+{
+	border-collapse: collapse;
+	cursor: default;
+	font-family: Arial, sans-serif;
+	table-layout: fixed;
+}
+.ms-calbot
+{
+	border-left-style: solid;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	height: 2px;
+	border-right-color: #000000;
+	border-top-style: none;
+	border-left-width: 1px;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	border-top-width: medium;
+	border-right-style: solid;
+	border-top-color: inherit;
+	border-bottom-style: solid;
+}
+.ms-caldow
+{
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-color: #000000;
+	font-size: 10pt;
+	font-weight: bold;
+	vertical-align: top;
+	border-right-width: 1px;
+	text-align: center;
+	color: #000000;
+	border-left-style: solid;
+	height: 20px;
+	border-right-color: #000000;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+.ms-caldowdown
+{
+	vertical-align: middle;
+	font-family: Times New Roman, serif;
+	s: #000000;
+	text-align: center;
+	font-weight: bold;
+}
+.ms-caldown
+{
+	vertical-align: top;
+	color: #000000;
+	text-align: left;
+	font-size: 8pt;
+}
+.ms-calhead
+{
+	border-bottom-width: medium;
+	font-size: 16pt;
+	border-bottom-color: inherit;
+	border-top-width: medium;
+	padding-top: 2px;
+	border-top-color: inherit;
+	padding-right: 2px;
+	border-bottom-style: none;
+	background-color: #cccc99;
+	border-right-width: medium;
+	border-left-style: none;
+	font-family: Arial, sans-serif;
+	border-right-color: inherit;
+	padding-left: 2px;
+	text-align: center;
+	border-top-style: none;
+	border-left-width: medium;
+	padding-bottom: 2px;
+	border-right-style: none;
+	border-left-color: inherit;
+	color: #ffffcc;
+}
+.ms-calmid
+{
+	height: 20px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-left-style: solid;
+}
+.ms-calspacer
+{
+	border-left-width: 1px;
+	border-left-color: #000000;
+	height: 4px;
+	border-left-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+.ms-caltop
+{
+	border-top-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	width: 14%;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-left-style: solid;
+	height: 30px;
+	font-size: 10pt;
+	border-right-style: solid;
+	vertical-align: top;
+	border-top-width: 1px;
+	border-top-color: #000000;
+}
+.ms-datepicker
+{
+	border-right-style: outset;
+	background-color: #ffffff;
+	border-right-width: 2px;
+	color: #000000;
+	cursor: default;
+	border-bottom-width: 2px;
+	border-top-style: outset;
+	border-right-color: activeborder;
+	border-bottom-color: activeborder;
+	border-left-style: outset;
+	font-family: Arial, sans-serif;
+	border-top-width: 2px;
+	border-left-width: 2px;
+	border-bottom-style: outset;
+	border-top-color: activeborder;
+	border-left-color: activeborder;
+}
+.ms-datepickeriframe
+{
+	background:white; display: none;
+	position: absolute;
+	
+}
+.ms-descriptiontext
+{
+	color: #000000;
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+}
+.ms-descriptiontext a
+{
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+	color: #996600;
+}
+.ms-discussiontitle
+{
+	font-weight: bold;
+	color: #000000;
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+}
+.ms-dpday
+{
+	border-top-style: none;
+	border-left-color: inherit;
+	border-left-style: none;
+	border-bottom-width: medium;
+	border-top-color: inherit;
+	border-right-width: medium;
+	font-size: 8pt;
+	border-bottom-color: inherit;
+	border-right-color: inherit;
+	border-left-width: medium;
+	text-align: center;
+	border-bottom-style: none;
+	border-right-style: none;
+	border-top-width: medium;
+}
+.ms-dpdow
+{
+	border-bottom-width: 1px;
+	border-left-color: inherit;
+	border-bottom-color: #000000;
+	border-right-width: medium;
+	font-size: 8pt;
+	font-weight: bold;
+	border-right-color: inherit;
+	border-left-style: none;
+	vertical-align: top;
+	border-bottom-style: solid;
+	border-top-style: none;
+	border-left-width: medium;
+	text-align: center;
+	border-right-style: none;
+	border-top-width: medium;
+	color: #000000;
+	border-top-color: inherit;
+}
+.ms-dpfoot
+{
+	border-top-style: solid;
+	text-align: center;
+	border-left-width: medium;
+	border-right-width: medium;
+	border-left-color: inherit;
+	font-size: 8pt;
+	border-right-color: inherit;
+	border-bottom-width: medium;
+	border-left-style: none;
+	border-bottom-color: inherit;
+	border-right-style: none;
+	height: 24px;
+	border-bottom-style: none;
+	font-style: italic;
+	border-top-width: 1px;
+	border-top-color: inherit;
+}
+.ms-dphead
+{
+	border-bottom-style: none;
+	border-left-color: inherit;
+	border-top-width: medium;
+	border-top-color: inherit;
+	border-left-style: none;
+	border-bottom-color: inherit;
+	border-right-style: none;
+	font-weight: bold;
+	color: #ffffcc;
+	border-top-style: none;
+	border-left-width: medium;
+	border-right-width: medium;
+	text-align: center;
+	border-right-color: inherit;
+	border-bottom-width: medium;
+	font-size: 8pt;
+	background-color: #cccc99;
+}
+.ms-dpnonmonth
+{
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-top-color: inherit;
+	font-size: 8pt;
+	color: #999999;
+	border-bottom-width: medium;
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-color: inherit;
+	border-left-width: medium;
+	border-right-width: medium;
+	border-left-color: inherit;
+	text-align: center;
+	border-right-color: inherit;
+}
+.ms-dpselectedday
+{
+	border-top-style: none;
+	border-left-width: medium;
+	border-right-width: medium;
+	border-left-color: inherit;
+	border-right-color: inherit;
+	font-size: 8pt;
+	border-top-color: inherit;
+	border-left-style: none;
+	background-color: #ffffcc;
+	border-right-style: none;
+	border-bottom-width: medium;
+	border-bottom-color: inherit;
+	border-top-width: medium;
+	text-align: center;
+	border-bottom-style: none;
+}
+.ms-filedialog td
+{
+	height: 16px;
+}
+.ms-formbody
+{
+	text-align: left;
+	color: #000000;
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+}
+.ms-formdescription
+{
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+	color: #000000;
+}
+.ms-formdescription a
+{
+	text-decoration: underline;
+	color: #996600;
+}
+.ms-formlabel
+{
+	color: #000000;
+	text-align: left;
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+	font-weight: normal;
+}
+.ms-homepagetitle
+{
+	color: #999933;
+	text-decoration: none;
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 12pt;
+}
+:hover.ms-homepagetitle
+{
+	text-decoration: underline;
+}
+.ms-input
+{
+	font-family: Arial, sans-serif;
+	font-size: 9pt;
+}
+.ms-itemheader a
+{
+	font-family: Times New Roman, serif;
+	font-weight: normal;
+	font-size: 9pt;
+	color: #996600;
+	text-decoration: none;
+}
+.ms-itemheader a:hover
+{
+	text-decoration: underline;
+	color: #336600;
+}
+.ms-itemheader a:visited
+{
+	color: #999999;
+	text-decoration: none;
+}
+.ms-itemheader a:visited:hover
+{
+	text-decoration: underline;
+}
+.ms-long
+{
+	font-family: Arial, sans-serif;
+	width: 300px;
+	font-size: 9pt;
+}
+.ms-main
+{
+	border-right-style: solid;
+	border-right-color: #cccc99;
+	border-right-width: 0px;
+}
+.ms-nav a
+{
+	font-size: 9pt;
+	font-weight: normal;
+	color: #996600;
+	text-decoration: none;
+	font-family: Times New Roman, serif;
+}
+.ms-nav a:hover
+{
+	text-decoration: underline;
+	color: #336600;
+}
+.ms-nav a:visited
+{
+	color: #999999;
+}
+.ms-nav td
+{
+	font-weight: normal;
+	font-size: 9pt;
+	font-family: Times New Roman, serif;
+	color: #000000;
+}
+.ms-nav th
+{
+	text-align: left;
+	font-family: Times New Roman, serif;
+	font-weight: normal;
+	color: #000000;
+	font-size: 9pt;
+}
+.ms-navframe
+{
+	border-left-width: 4px;
+	border-left-color: #cccc99;
+	border-left-style: solid;
+}
+.ms-pagetitle
+{
+	color: #993300;
+	font-weight: normal;
+	font-family: Times New Roman, serif;
+	font-size: 1.25em;
+}
+.ms-pagetitle a
+{
+	text-decoration: underline;
+	color: #993300;
+}
+.ms-pagetitle a:hover
+{
+	text-decoration: underline;
+	color: #993300;
+}
+.ms-propertysheet
+{
+	font-size: 9pt;
+	font-family: Times New Roman, serif;
+}
+.ms-propertysheet a
+{
+	color: #996600;
+	text-decoration: none;
+}
+.ms-propertysheet a:hover
+{
+	color: #336600;
+	text-decoration: underline;
+}
+.ms-propertysheet a:visited
+{
+	color: #999999;
+	text-decoration: none;
+}
+.ms-propertysheet a:visited:hover
+{
+	text-decoration: underline;
+}
+.ms-propertysheet th
+{
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	color: #000000;
+}
+.ms-radiotext
+{
+	text-align: left;
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+	cursor: default;
+	height: 19px;
+}
+.ms-searchbox
+{
+	width: 100%;
+}
+.ms-sectionheader
+{
+	font-family: Times New Roman, serif;
+	color: #000000;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.ms-sectionline
+{
+	background-color: #cccc00;
+	height: 1px;
+}
+.ms-selected
+{
+	color: #000000;
+	background-color: #ffffcc;
+}
+.ms-selected span
+{
+	color: #000000;
+}
+.ms-separator
+{
+	font-size: 10pt;
+	color: #993300;
+}
+.ms-titlearea
+{
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+	color: #000000;
+}
+.ms-titleareaframe
+{
+	border-left-style: solid;
+	border-left-color: #cccc99;
+	color: #000000;
+	border-left-width: 4px;
+}
+.ms-toolbar
+{
+	font-size: 9pt;
+	text-decoration: none;
+	color: #999933;
+	font-family: Times New Roman, serif;
+}
+.ms-vb
+{
+	font-family: Times New Roman, serif;
+	height: 18px;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #000000;
+}
+.ms-vb a
+{
+	text-decoration: none;
+	color: #996600;
+}
+.ms-vb a:hover
+{
+	color: #336600;
+	text-decoration: underline;
+}
+.ms-vb a:visited
+{
+	text-decoration: none;
+	color: #999999;
+}
+.ms-vb a:visited:hover
+{
+	text-decoration: underline;
+}
+.ms-verticaldots
+{
+	background-position: right 50%; background-repeat: repeat-y;
+	background-image: url('blank.gif');
+	
+}
+.ms-vh
+{
+	font-family: Times New Roman, serif;
+	text-decoration: none;
+	color: #000000;
+	text-align: left;
+	font-weight: normal;
+	font-size: 9pt;
+}
+.ms-vh a
+{
+	color: #996600;
+	text-decoration: none;
+}
+.ms-vh a:hover
+{
+	text-decoration: underline;
+}
+.ms-viewselect a:link
+{
+	font-family: Times New Roman, serif;
+	font-size: 9pt;
+	color: #996600;
+}
+.ms-wvsel
+{
+	color: #3366cc;
+}
+.mstheme
+{
+	top-bar-button: url(romglob.gif);
+	navbutton-background-color: rgb(255,255,255);
+}
+.mstheme-topbar-font
+{
+	color: rgb(102,0,0);
+	font-size: 8pt;
+	font-family: Times New Roman, Times;
+}
+body
+{
+	font-family: Arial;
+	background-image: url('romtextb.jpg');
+	text-align: none;
+	vertical-align: none;
+	font-weight: normal;
+	font-style: normal
+}
+button
+{
+	border-top-style: solid;
+	border-left-width: 1pt;
+	border-right-style: solid;
+	font-size: 8pt;
+	border-bottom-width: 1pt;
+	border-right-width: 1pt;
+	border-left-style: solid;
+	font-style: normal;
+	border-bottom-style: solid;
+	border-top-width: 1pt;
+	font-family: Times New Roman, Times;
+}
+caption
+{
+	font-style: normal;
+	font-family: Book Antiqua, Times New Roman, Times;
+	font-size: 14pt;
+}
+fieldset
+{
+	border-top-width: 1pt;
+	font-style: normal;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	font-size: 8pt;
+	border-right-style: solid;
+	border-bottom-width: 1pt;
+	font-family: Times New Roman, Times;
+	border-left-width: 1pt;
+	border-right-width: 1pt;
+	border-top-style: solid;
+}
+h1
+{
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24pt;
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h2
+{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18pt;
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h3
+{
+	font-weight: normal;
+	font-style: normal;
+	font-family: Book Antiqua, Times New Roman, Times;
+	font-size: 14pt;
+}
+h4
+{
+	font-weight: normal;
+	font-style: normal;
+	font-family: Book Antiqua, Times New Roman, Times;
+	font-size: 12pt;
+}
+h5
+{
+	font-weight: normal;
+	font-size: 10pt;
+	font-style: normal;
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+h6
+{
+	font-weight: normal;
+	font-style: normal;
+	font-size: 8pt;
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+img.ms-button
+{
+	cursor: hand;
+}
+label
+{
+	font-style: normal;
+	font-size: 8pt;
+	font-family: Times New Roman, Times;
+}
+label, .mstheme-label
+{
+	font-size: 8pt;
+	font-style: normal;
+	font-family: Times New Roman, Times;
+}
+legend
+{
+	font-style: Normal;
+	font-size: 8pt;
+	font-family: Book Antiqua, Times New Roman, Times;
+}
+marquee
+{
+	font-family: Times New Roman, Times;
+	font-size: 14pt;
+}
+select
+{
+	border-style:solid; font-family: Times New Roman, Times;
+	font-size: 8pt;
+	font-style: normal
+}
+table
+{
+	font-weight: normal;
+	font-style: normal;
+	vertical-align: none;
+	font-family: Arial;
+	text-align: none;
+}
+textarea
+{
+	border-style:solid; font-size: 8pt;
+	font-family: Times New Roman, Times;
+	font-style: normal;
+	
+}
+th
+{
+	font-family: Times New Roman, Times;
+	font-style: normal;
+}

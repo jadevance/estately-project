@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170102203940) do
+ActiveRecord::Schema.define(version: 20170103234042) do
 
   create_table "listings", force: :cascade do |t|
     t.datetime "created_at",    null: false
@@ -21,9 +21,11 @@ ActiveRecord::Schema.define(version: 20170102203940) do
     t.integer  "living_area"
     t.float    "rooms"
     t.string   "year_built"
-    t.string   "country"
     t.string   "city"
     t.string   "state"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.string   "image"
   end
 
 end
